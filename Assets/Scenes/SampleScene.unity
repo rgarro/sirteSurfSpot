@@ -586,6 +586,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d917aee9c7a92141ae446ae34276fba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rotationSteps: 3.014
+  TheBase: {fileID: 2124141678}
+  servoSoundClip: {fileID: 8300000, guid: c490df7b1312291438d19315ef7c95b2, type: 3}
 --- !u!212 &2124141680
 SpriteRenderer:
   m_ObjectHideFlags: 0
