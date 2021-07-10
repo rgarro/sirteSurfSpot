@@ -610,7 +610,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotationSteps: 3.014
-  forwardSteps: 0.15
+  forwardSteps: 0.02
   TheBase: {fileID: 2124141678}
   servoSoundClip: {fileID: 8300000, guid: c490df7b1312291438d19315ef7c95b2, type: 3}
 --- !u!212 &2124141680
