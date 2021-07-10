@@ -589,6 +589,7 @@ GameObject:
   - component: {fileID: 2124141680}
   - component: {fileID: 2124141679}
   - component: {fileID: 2124141682}
+  - component: {fileID: 2124141683}
   m_Layer: 0
   m_Name: M1Tank
   m_TagString: Untagged
@@ -771,3 +772,18 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &2124141683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2124141678}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af0fc579494707e47ac4cb4ca775f4b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationSteps: 3.014
+  TheTurret: {fileID: 814037642}
+  servoSoundClip: {fileID: 8300000, guid: 614e439f023b3ce429f8a253dee294d8, type: 3}
