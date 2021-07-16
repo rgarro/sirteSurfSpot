@@ -892,6 +892,7 @@ MonoBehaviour:
   forwardSteps: 0.015
   TheBase: {fileID: 2124141678}
   servoSoundClip: {fileID: 8300000, guid: c490df7b1312291438d19315ef7c95b2, type: 3}
+  screenBodyCorrectionNorthDegrees: 90
 --- !u!212 &2124141680
 SpriteRenderer:
   m_ObjectHideFlags: 0
