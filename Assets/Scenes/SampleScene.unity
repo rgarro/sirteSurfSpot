@@ -907,6 +907,7 @@ MonoBehaviour:
   forwardSteps: 0.015
   TheBase: {fileID: 2124141678}
   servoSoundClip: {fileID: 8300000, guid: c490df7b1312291438d19315ef7c95b2, type: 3}
+  engineSoundClip: {fileID: 8300000, guid: b2c254996b2bdc346bffa7f5d7b11eb7, type: 3}
   screenBodyCorrectionNorthDegrees: 90
 --- !u!212 &2124141680
 SpriteRenderer:
