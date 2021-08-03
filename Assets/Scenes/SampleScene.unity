@@ -296,6 +296,7 @@ GameObject:
   - component: {fileID: 1250787972}
   - component: {fileID: 1250787971}
   - component: {fileID: 1250787975}
+  - component: {fileID: 1250787976}
   m_Layer: 0
   m_Name: MiHelicopter
   m_TagString: Untagged
@@ -494,6 +495,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   stepsDown: 0.0001
   bodyToMove: {fileID: 1250787970}
+--- !u!114 &1250787976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1250787970}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10caf452aca38c443916bea3326b9dda, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  destroyAt: -5.01
 --- !u!1 &1753402067
 GameObject:
   m_ObjectHideFlags: 0
