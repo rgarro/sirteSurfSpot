@@ -503,9 +503,9 @@ MonoBehaviour:
   hazardB: {fileID: 6690758509089983257, guid: 8f567cb2be71f7842973da0a53a6d8e9, type: 3}
   spawnValues: {x: 0, y: 0, z: 0}
   hazardCount: 0
-  spawnWait: 0
-  startWait: 0
-  waveWait: 0
+  spawnWait: 2
+  startWait: 3
+  waveWait: 2
   distanceFromSpanwnX: 100
   Score: 0
   btnSkin: {fileID: 0}
