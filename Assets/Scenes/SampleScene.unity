@@ -297,6 +297,7 @@ GameObject:
   - component: {fileID: 1753402072}
   - component: {fileID: 1753402073}
   - component: {fileID: 1753402074}
+  - component: {fileID: 1753402075}
   m_Layer: 0
   m_Name: BatComputer
   m_TagString: Untagged
@@ -494,7 +495,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1753402067}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ce7bb927501b1dd44bbef3bedc2dbc7e, type: 3}
   m_Name: 
@@ -510,6 +511,27 @@ MonoBehaviour:
   Score: 0
   btnSkin: {fileID: 0}
   count: 0
+--- !u!114 &1753402075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1753402067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c04b019c286462449e8f3847bc1e5a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hazard: {fileID: 6690758509089983257, guid: 8f567cb2be71f7842973da0a53a6d8e9, type: 3}
+  spawnValues: {x: 0, y: 0, z: 0}
+  hazardCount: 0
+  spawnWait: 0
+  startWait: 0
+  waveWait: 0
+  distanceFromSpanwnX: 100
+  Score: 0
+  btnSkin: {fileID: 0}
 --- !u!1 &1987967023
 GameObject:
   m_ObjectHideFlags: 0
