@@ -500,6 +500,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b05d10ea5cb3cd4f8b7329e3bd79bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  windowX: 200
+  windowY: 25
+  windowHeight: 170
+  windowWidth: 150
+  Score: 0
 --- !u!114 &1753402075
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -518,13 +523,9 @@ MonoBehaviour:
   spawnWait: 6
   startWait: 8
   waveWait: 8
-  distanceFromSpanwnX: 1
-  Score: 0
   btnSkin: {fileID: 0}
-  windowX: 200
-  windowY: 30
-  windowHeight: 170
-  windowWidth: 150
+  rangeValueLeft: -6
+  rangeValueRight: 6
 --- !u!1 &1987967023
 GameObject:
   m_ObjectHideFlags: 0
@@ -710,7 +711,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2124141678}
   m_LocalRotation: {x: -0.018608183, y: -0.019269334, z: -0.71908164, w: 0.69440913}
-  m_LocalPosition: {x: 0.01, y: 3.88, z: 0}
+  m_LocalPosition: {x: -0.07, y: 3.88, z: 0}
   m_LocalScale: {x: -0.15, y: -0.15, z: -0.15}
   m_Children:
   - {fileID: 814037643}
