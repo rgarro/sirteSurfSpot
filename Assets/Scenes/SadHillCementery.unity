@@ -518,7 +518,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hazard: {fileID: 6690758509089983257, guid: 8f567cb2be71f7842973da0a53a6d8e9, type: 3}
-  spawnValues: {x: -5.14, y: -4.92, z: 0}
+  spawnValues: {x: -5.14, y: 4.92, z: 0}
   hazardCount: 4
   spawnWait: 6
   startWait: 8
@@ -526,6 +526,7 @@ MonoBehaviour:
   btnSkin: {fileID: 0}
   rangeValueLeft: -6
   rangeValueRight: 6
+  zRotation: -180
 --- !u!1 &1987967023
 GameObject:
   m_ObjectHideFlags: 0
@@ -710,14 +711,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2124141678}
-  m_LocalRotation: {x: -0.018608183, y: -0.019269334, z: -0.71908164, w: 0.69440913}
-  m_LocalPosition: {x: -0.07, y: 3.88, z: 0}
+  m_LocalRotation: {x: -0.01918796, y: 0.018692082, z: 0.6975401, w: 0.7160449}
+  m_LocalPosition: {x: -0.11, y: -3.06, z: 0}
   m_LocalScale: {x: -0.15, y: -0.15, z: -0.15}
   m_Children:
   - {fileID: 814037643}
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: -3.07, y: 0, z: -92}
+  m_LocalEulerAnglesHint: {x: -3.07, y: 0, z: 88.5}
 --- !u!82 &2124141682
 AudioSource:
   m_ObjectHideFlags: 0
