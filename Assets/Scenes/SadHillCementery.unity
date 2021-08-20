@@ -791,8 +791,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2124141678}
   m_LocalRotation: {x: -0.01918796, y: 0.018692082, z: 0.6975401, w: 0.7160449}
-  m_LocalPosition: {x: -0.11, y: -3.06, z: 0}
-  m_LocalScale: {x: -0.15, y: -0.15, z: -0.15}
+  m_LocalPosition: {x: 0.14, y: -2.13, z: 0}
+  m_LocalScale: {x: -0.25, y: -0.25, z: -0.25}
   m_Children:
   - {fileID: 814037643}
   m_Father: {fileID: 0}
@@ -906,6 +906,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af0fc579494707e47ac4cb4ca775f4b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationSteps: 3.014
+  rotationSteps: 4
   TheTurret: {fileID: 814037642}
   servoSoundClip: {fileID: 8300000, guid: 614e439f023b3ce429f8a253dee294d8, type: 3}
