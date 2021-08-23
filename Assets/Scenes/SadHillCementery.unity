@@ -292,7 +292,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1479614383}
   - component: {fileID: 1479614382}
-  - component: {fileID: 1479614384}
+  - component: {fileID: 1479614385}
   m_Layer: 0
   m_Name: hellfireRound
   m_TagString: Untagged
@@ -362,7 +362,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1479614384
+--- !u!114 &1479614385
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -371,11 +371,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1479614381}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cd58f54047b4af44ea714d741741f8a8, type: 3}
+  m_Script: {fileID: 11500000, guid: df5f057ba04ef2340abd902c69598eae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stepsDown: 0.01
-  bodyToMove: {fileID: 1479614381}
+  roundVelocity: 0.01
+  roundBody: {fileID: 1479614381}
 --- !u!1 &1753402067
 GameObject:
   m_ObjectHideFlags: 0
@@ -804,6 +804,7 @@ GameObject:
   - component: {fileID: 2124141679}
   - component: {fileID: 2124141682}
   - component: {fileID: 2124141683}
+  - component: {fileID: 2124141684}
   m_Layer: 0
   m_Name: M1Tank
   m_TagString: Untagged
@@ -1003,3 +1004,17 @@ MonoBehaviour:
   rotationSteps: 4
   TheTurret: {fileID: 814037642}
   servoSoundClip: {fileID: 8300000, guid: 614e439f023b3ce429f8a253dee294d8, type: 3}
+--- !u!114 &2124141684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2124141678}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92250b18c25261344972f90a03b30aa5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  roundObject: {fileID: 0}
+  gunObject: {fileID: 814037642}
