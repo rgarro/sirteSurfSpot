@@ -945,3 +945,4 @@ MonoBehaviour:
     type: 3}
   gunObject: {fileID: 814037642}
   shoots: 0
+  correctionDegrees: 90
