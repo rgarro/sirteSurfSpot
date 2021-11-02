@@ -271,7 +271,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 21300000, guid: d4f933ff61cbb8a4383702ef39b40b01, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 574837256173e9c499c14c0d563de308, type: 3}
   m_Color: {r: 0.9811321, g: 0.93948025, b: 0.93948025, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -945,4 +945,4 @@ MonoBehaviour:
     type: 3}
   gunObject: {fileID: 814037642}
   shoots: 0
-  correctionDegrees: 90
+  correctionDegrees: -1
