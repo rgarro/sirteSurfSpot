@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 6690758509089983256}
   - component: {fileID: 6690758509089983260}
   - component: {fileID: 6690758509089983251}
+  - component: {fileID: 5693495520622495917}
   m_Layer: 0
   m_Name: MiHelicopter
   m_TagString: Untagged
@@ -301,3 +302,29 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   destroyAt: -5.01
+--- !u!61 &5693495520622495917
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6690758509089983257}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 3.42, y: 8.35}
+    newSize: {x: 8.26, y: 3.41}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.56, y: 8.35}
+  m_EdgeRadius: 0
