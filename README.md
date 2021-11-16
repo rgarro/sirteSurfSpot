@@ -1,6 +1,10 @@
 # sirteSurfSpot
 fractally speaking c blues smoke in the water pytagorean 2d stepper
-I cant save cybertron ...
+I cant save cybertron , Decepticons with foilboard face logo ...
+
+An rpg weight the same as a 220 litters daggerboard ...
+col. kaddafi flew to chipre island in a daggerboard while switching the rear with the front forces,
+provoking a realigment of all the enemy toyotas and nissans. He lives in Vancouver an runs a cannabis dispensary.
 
 Stuhlstaub-Etude Music Loop: https://soundcloud.com/dorje-trolo/stuhlstaub-etude
 
