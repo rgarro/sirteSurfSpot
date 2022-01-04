@@ -364,5 +364,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   round: {fileID: 136532434620226286, guid: 588ce0ee6f18d974d912ffa68fa4ef6c, type: 3}
-  maxDistanceToStartShooting: 0
-  secondsBeforeShoot: 0.5
+  maxDistanceToStartShooting: 2.2
+  secondsBeforeShoot: 0.4
+  targetTag: m1tank
