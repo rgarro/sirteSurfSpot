@@ -1,6 +1,6 @@
 # sirteSurfSpot
 fractally speaking c blues smoke in the water pytagorean 2d stepper
-I cant save cybertron ....
+I cant save Cybertron ....
 
 
 Stuhlstaub-Etude Music Loop: https://soundcloud.com/dorje-trolo/stuhlstaub-etude
