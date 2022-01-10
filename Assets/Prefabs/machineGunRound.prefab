@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 136532434620226291}
   - component: {fileID: 136532434620226289}
   - component: {fileID: 2559276605526984680}
-  - component: {fileID: 981068251498552291}
   - component: {fileID: 4827998204708239735}
   m_Layer: 0
   m_Name: machineGunRound
@@ -236,21 +235,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.1, y: 0.94}
   m_EdgeRadius: 0
---- !u!114 &981068251498552291
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 136532434620226286}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0489df3adfabfcf49b285e471c7c6651, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  explosion: {fileID: 139366, guid: b185c1a9cf067374586d095111b15bd1, type: 3}
-  scoreManagerTag: BatComputer
-  ptsToIncrease: 10
 --- !u!50 &4827998204708239735
 Rigidbody2D:
   serializedVersion: 4
