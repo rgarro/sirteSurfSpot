@@ -272,3 +272,4 @@ MonoBehaviour:
   explosion: {fileID: 0}
   scoreManagerTag: m1tank
   ptsToIncrease: 5
+  isDamage: 1
