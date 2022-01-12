@@ -269,7 +269,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0489df3adfabfcf49b285e471c7c6651, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  explosion: {fileID: 0}
+  explosion: {fileID: 139366, guid: b185c1a9cf067374586d095111b15bd1, type: 3}
+  roundHit: {fileID: 100006, guid: a49596ebf788acd4ab1281bffea444b1, type: 3}
   scoreManagerTag: m1tank
   ptsToIncrease: 5
   isDamage: 1

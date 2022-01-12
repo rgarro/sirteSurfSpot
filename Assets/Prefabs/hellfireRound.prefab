@@ -99,6 +99,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   roundVelocity: 4
   roundBody: {fileID: 226922987167635850}
+  is_rocket: 0
+  is_round: 0
 --- !u!82 &226922987167635863
 AudioSource:
   m_ObjectHideFlags: 0
@@ -246,7 +248,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0489df3adfabfcf49b285e471c7c6651, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  explosion: {fileID: 139366, guid: b185c1a9cf067374586d095111b15bd1, type: 3}
+  explosion: {fileID: 100014, guid: 5332791ebce075d4a9e56f4581e7fb47, type: 3}
+  scoreManagerTag: BatComputer
+  ptsToIncrease: 10
+  isDamage: 0
 --- !u!50 &4738701661923408403
 Rigidbody2D:
   serializedVersion: 4
