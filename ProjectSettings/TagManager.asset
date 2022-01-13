@@ -6,6 +6,10 @@ TagManager:
   tags:
   - BatComputer
   - m1tank
+  - FxTemporaire
+  - mihelicopter
+  - machineGunRound
+  - hellfireRound
   layers:
   - Default
   - TransparentFX

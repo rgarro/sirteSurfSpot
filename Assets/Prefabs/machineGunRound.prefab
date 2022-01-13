@@ -18,7 +18,7 @@ GameObject:
   - component: {fileID: 2578097491919939855}
   m_Layer: 0
   m_Name: machineGunRound
-  m_TagString: Untagged
+  m_TagString: machineGunRound
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -271,6 +271,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   explosion: {fileID: 139366, guid: b185c1a9cf067374586d095111b15bd1, type: 3}
   roundHit: {fileID: 100006, guid: a49596ebf788acd4ab1281bffea444b1, type: 3}
+  originTag: mihelicopter
   scoreManagerTag: m1tank
   ptsToIncrease: 5
   isDamage: 1
