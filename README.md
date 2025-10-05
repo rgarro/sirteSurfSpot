@@ -7,7 +7,7 @@ https://play.unity.com/mg/other/sirtesurfspot
 
 Stuhlstaub-Etude Music Loop: https://soundcloud.com/dorje-trolo/stuhlstaub-etude
 
-Buy Me a Beer, Starbucks Expresso or send a cheese burguer ... [Paypal](https://www.paypal.me/gospelOfLuke/25).
+Did you like it? send me funds,help me to pay my MIT major ... [Paypal](https://www.paypal.me/gospelOfLuke/25).
 
 
 [![Falklands are British ... ](https://raw.githubusercontent.com/rgarro/sirteSurfSpot/master/sirteSurf.PNG)]
